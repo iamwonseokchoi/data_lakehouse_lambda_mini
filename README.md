@@ -28,7 +28,7 @@ pulled by using Google developer tools.
     - This can be done by looking into the HTML of a Youtube Channel page
 
 ## Architecture
-![Architecture Overview](images/architecture.png)
+![Project Architecture](images/architecture.png)
 
 ## Requirements
 - Was built on MacOS with ARM architecture to deploy minikube
