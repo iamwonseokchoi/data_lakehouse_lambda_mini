@@ -1,0 +1,3 @@
+data_lake_setup/.terraform*
+data_lake_setup/terraform.tfstate*
+.venv
